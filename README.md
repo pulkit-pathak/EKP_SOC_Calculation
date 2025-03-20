@@ -10,7 +10,7 @@ The script consists of two main parts:
 ---
 
 ## **1. Files in This Project**
-- `SoC_EKF.m`: Main MATLAB script for SoC estimation.
+- `SoC_Calcualtion.m`: Main MATLAB script for SoC estimation.
 - `README.md`: Explanation of the script.
 - `State_of_charge.jpg`: Output plot showing estimated SoC.
 
